@@ -15,9 +15,9 @@
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sirthirrygolooo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirthirrygolooo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirthirrygolooo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" width="36%" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=sirthirrygolooo&theme=tokyonight&hide_border=true" alt="Streak" width="48%" />
+  <!-- <img src="https://streak-stats.demolab.com?user=sirthirrygolooo&theme=tokyonight&hide_border=true" alt="Streak" width="48%" /> -->
 </p>
 
 ---
