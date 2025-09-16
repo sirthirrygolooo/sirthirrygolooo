@@ -12,7 +12,7 @@
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **My Github stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sirthirrygolooo&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirthirrygolooo&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Langs" width="36%" />
@@ -22,11 +22,14 @@
 
 ---
 
-## 🔍 **About Me**
+## 🔍 **More about me**
 Passionate about **IT security** and **AI experimentation**.
 I love dissecting systems, automating tasks, and building things that break (or fix) other things.
 
 ### **Skills & Tools**
+
+*A regrouper par catégories ?*
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,7 +41,7 @@ I love dissecting systems, automating tasks, and building things that break (or 
 ---
 
 ## 💻 **Featured Projects**
-*(faut choisir quoi mettre)*
+*a sélectionner sur le détail*
 
 | Project | Description | Code |
 |---------|-------------|------|
@@ -47,7 +50,7 @@ I love dissecting systems, automating tasks, and building things that break (or 
 
 ---
 
-## 📬 **Get In Touch**
+## 📬 **Contact me**
 <p align="center">
   <a href="https://github.com/sirthirrygolooo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:jb.froehly@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
