@@ -62,6 +62,6 @@ I love dissecting systems, automating tasks, and building things that break (or 
   <samp>
     Made with 💖 but especially with ⌨️ by me
     <br>
-    Last updated: **16/09/2025**
+    Last updated: 09/10/2025
   </samp>
 </p>
