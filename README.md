@@ -1,4 +1,4 @@
-# 👋 jb_frhl, better known as **SirThirryGolooo**
+# 👋 Hey I'm **jb_frhl**
 
 <p align="center">
   <samp>
