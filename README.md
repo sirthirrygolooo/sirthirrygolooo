@@ -60,7 +60,7 @@ I love dissecting systems, automating tasks, and building things that break (or 
 ---
 <p align="center">
   <samp>
-    Made with 💖 but especially with ⌨️ by me
+    Made with 💖 but especially with ⌨️ by jb_frhl
     <br>
     Last updated: 09/10/2025
   </samp>
